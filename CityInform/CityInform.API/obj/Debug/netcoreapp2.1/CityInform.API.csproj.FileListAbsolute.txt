@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\CityInform.API.deps.json
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\CityInform.API.runtimeconfig.json
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\CityInform.API.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\CityInform.API.dll
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\CityInform.API.pdb
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.dll
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.pdb
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\obj\Debug\netcoreapp2.1\CityInform.API.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Administrator\source\repos\CityInform\CityInform.API\bin\Debug\netcoreapp2.1\appsettings.json
